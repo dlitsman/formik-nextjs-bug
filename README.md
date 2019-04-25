@@ -3,7 +3,7 @@
 ## Steps
 
 1. `npm i`
-2. `npm run bs`
+2. `npm run build && npm run start`
 
 ## Error
 

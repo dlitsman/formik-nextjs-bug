@@ -6,8 +6,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start",
-    "bs": "next build && next start"
+    "start": "next start"
   },
   "keywords": [],
   "author": "",
