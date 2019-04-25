@@ -4,6 +4,7 @@
 
 1. `npm i`
 2. `npm run build && npm run start`
+3. Go to http://localhost:3000/
 
 ## Error
 
